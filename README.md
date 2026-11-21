@@ -1,4 +1,6 @@
 # cloud-itonami-isco-2513
+Occupation reference: ISCO-08 (International Labour Organization, 2012), code 2513. This app is not produced, reviewed or endorsed by the ILO.
+職業の参照: ISCO-08（国際労働機関 ILO、2012 年）のコード 2513。日本語の名称は当方の訳です。この app は ILO が作成・確認・推奨したものではありません。
 
 **Community Web Studio** — the ISCO-08 2513 (Web and Multimedia
 Developers) actor, an ISCO **Wave 0** occupation per ADR-2607121000:
